@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\bin\Release\net8.0\NugetExp.deps.json
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\bin\Release\net8.0\NugetExp.dll
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\bin\Release\net8.0\NugetExp.pdb
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\obj\Release\net8.0\NugetExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\obj\Release\net8.0\NugetExp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\obj\Release\net8.0\NugetExp.AssemblyInfo.cs
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\obj\Release\net8.0\NugetExp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\obj\Release\net8.0\NugetExp.dll
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\obj\Release\net8.0\refint\NugetExp.dll
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\obj\Release\net8.0\NugetExp.pdb
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\NugetExp\obj\Release\net8.0\ref\NugetExp.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+XlaFbJ65LelNs6vji8PxcPQxnyfpYyJnk7GFYhQ1JdaEOZCSGijg8mOrDFeKjBA6LPutasQ919PJFz4ZIzRuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\FEMI'S DOCS\\C# LEARNING\\SendPostRequest\\SendPostRequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

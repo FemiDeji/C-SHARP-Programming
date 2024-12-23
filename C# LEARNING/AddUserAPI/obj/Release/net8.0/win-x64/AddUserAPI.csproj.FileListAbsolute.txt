@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\AddUserAPI\obj\Release\net8.0\win-x64\AddUserAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\AddUserAPI\obj\Release\net8.0\win-x64\AddUserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\AddUserAPI\obj\Release\net8.0\win-x64\AddUserAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\AddUserAPI\obj\Release\net8.0\win-x64\AddUserAPI.AssemblyInfo.cs
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\AddUserAPI\obj\Release\net8.0\win-x64\AddUserAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\AddUserAPI\obj\Release\net8.0\win-x64\AddUserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\AddUserAPI\obj\Release\net8.0\win-x64\AddUserAPI.MvcApplicationPartsAssemblyInfo.cache

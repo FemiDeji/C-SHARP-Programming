@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\LoginAuthWebApp\obj\Debug\net8.0\LoginAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\LoginAuthWebApp\obj\Debug\net8.0\LoginAuth.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\LoginAuthWebApp\obj\Debug\net8.0\LoginAuth.AssemblyInfo.cs
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\LoginAuthWebApp\obj\Debug\net8.0\LoginAuth.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\LoginAuthWebApp\obj\Debug\net8.0\LoginAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\LoginAuthWebApp\obj\Debug\net8.0\LoginAuth.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\LoginAuthWebApp\obj\Debug\net8.0\LoginAuth.RazorAssemblyInfo.cs

@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\DemoApp\bin\Release\net8.0\publish\PROJECTS.exe
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\DemoApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\DemoApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\DemoApp\bin\Release\net8.0\publish\PROJECTS.dll
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\DemoApp\bin\Release\net8.0\publish\PROJECTS.deps.json
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\DemoApp\bin\Release\net8.0\publish\PROJECTS.runtimeconfig.json
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\DemoApp\bin\Release\net8.0\publish\PROJECTS.pdb

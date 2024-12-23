@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\bin\Debug\net8.0\ExtraLessons.exe
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\bin\Debug\net8.0\ExtraLessons.deps.json
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\bin\Debug\net8.0\ExtraLessons.runtimeconfig.json
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\bin\Debug\net8.0\ExtraLessons.dll
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\bin\Debug\net8.0\ExtraLessons.pdb
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\obj\Debug\net8.0\ExtraLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\obj\Debug\net8.0\ExtraLessons.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\obj\Debug\net8.0\ExtraLessons.AssemblyInfo.cs
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\obj\Debug\net8.0\ExtraLessons.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\obj\Debug\net8.0\ExtraLessons.dll
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\obj\Debug\net8.0\refint\ExtraLessons.dll
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\obj\Debug\net8.0\ExtraLessons.pdb
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\obj\Debug\net8.0\ExtraLessons.genruntimeconfig.cache
+C:\Users\Admin\Documents\FEMI'S DOCS\C# LEARNING\Microsoft C# Lessons\ExtraLessons\obj\Debug\net8.0\ref\ExtraLessons.dll
